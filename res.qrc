@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/new/icon">
+        <file>images/bkImg.png</file>
+        <file>images/cancel.png</file>
+        <file>images/copy.png</file>
+        <file>images/cut.png</file>
+        <file>images/da962553d1f438b4450b2d93da65516a.jpg</file>
+        <file>images/delete.png</file>
+        <file>images/exit.png</file>
+        <file>images/icon.png</file>
+        <file>images/open.png</file>
+        <file>images/paste.png</file>
+        <file>images/print.png</file>
+        <file>images/save.png</file>
+        <file>images/saveas.png</file>
+        <file>images/set.png</file>
+        <file>images/u=2734948622,1123516559&amp;fm=26&amp;gp=0.jpg</file>
+        <file>images/图标.png</file>
+    </qresource>
+</RCC>
